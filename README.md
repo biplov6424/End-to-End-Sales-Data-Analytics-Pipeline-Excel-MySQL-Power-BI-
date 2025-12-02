@@ -1,2 +1,14 @@
 # End-to-End-Sales-Data-Analytics-Pipeline-Excel-MySQL-Power-BI-
-Built a complete sales analytics pipeline: cleaned raw sales data in Excel, loaded it into MySQL for structured storage, and connected Power BI to build an interactive dashboard. Includes ETL steps, SQL integration, and business insights from visual reporting.
+
+This project demonstrates a complete data workflow: cleaning sales data in Excel, loading it into MySQL, and visualizing insights using Power BI. The dashboard highlights key metrics such as revenue, profit, order priority trends, item-type performance, shipping duration, and country-wise profitability.
+
+## 📊 Dashboard Preview
+![Sales Dashboard](IMAGE_LINK_HERE)
+
+## 🔄 Workflow Steps
+1. Data cleaning & transformation using Excel.
+2. Structured loading into MySQL Workbench.
+3. Power BI connected via MySQL connector.
+4. Interactive visuals & KPI reporting.
+
+
