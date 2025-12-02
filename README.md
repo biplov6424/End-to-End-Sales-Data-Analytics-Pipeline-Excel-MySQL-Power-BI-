@@ -3,7 +3,7 @@
 This project demonstrates a complete data workflow: cleaning sales data in Excel, loading it into MySQL, and visualizing insights using Power BI. The dashboard highlights key metrics such as revenue, profit, order priority trends, item-type performance, shipping duration, and country-wise profitability.
 
 ## 📊 Dashboard Preview
-![Sales Dashboard](IMAGE_LINK_HERE)
+![Sales Dashboard](Dashboard.png)
 
 ## 🔄 Workflow Steps
 1. Data cleaning & transformation using Excel.
